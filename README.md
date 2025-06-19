@@ -1,4 +1,4 @@
-# Java Dashboard Light and Dark mode
+Eswasthya Health Awareness Project
 This Health awareness based project is build by using java swing with flatlaf for BCA project purpose
 
 ### Library use
